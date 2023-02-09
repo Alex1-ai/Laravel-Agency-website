@@ -6,7 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-![7](https://user-images.githubusercontent.com/78540958/217907115-4c1d19b3-1e10-431d-ba8a-96decb07b3a0.png)
+
+![1](https://user-images.githubusercontent.com/78540958/217907593-75ba342a-1e7e-465a-91cc-64299166c9f9.png)
 
 ![6](https://user-images.githubusercontent.com/78540958/217906588-9b623d7d-a8aa-49f6-b737-7e70a73c2702.png)
 ![5](https://user-images.githubusercontent.com/78540958/217906597-6070edb3-c190-46f9-aee4-619bb97003c2.png)
